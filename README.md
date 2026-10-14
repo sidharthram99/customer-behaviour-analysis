@@ -74,7 +74,7 @@ Connected the SQL database to Power BI and built an interactive dashboard to pre
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Page 1](images/dashboard_1.png)
+![Dashboard Page 1](dashboard_1.png)
 
 
 ## 📁 Repository Structure

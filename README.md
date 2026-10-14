@@ -45,7 +45,6 @@ Answered the following business questions with SQL queries:
 Connected the SQL database to Power BI and built an interactive dashboard to present the key metrics and trends.
 
 ## 📈 Key Insights
-## 📈 Key Insights
 
 **Revenue & Customers**
 - Total revenue across **3,900 customers** was **233,081**, an average of roughly **59.77** per customer.
